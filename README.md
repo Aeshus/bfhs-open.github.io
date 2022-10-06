@@ -9,3 +9,9 @@ This is meant as a way to involve BFHS Students in contributing to open source p
 - [HTML Specs](https://www.w3.org/TR/html5/): W3's HTML 5 Specification
 
 This site is written in vanilla HTML and CSS, to make it easier to read, write, and set up dev environments for. All you need to contribute is a text editor and a browser to view your changes.
+
+## Directory Structure
+- Assets (Images, SVGs, etc.)
+- Src (Source-code, HTML)
+  - CSS (Cascading-Style-Sheets)
+  - JS (JavaScript)
